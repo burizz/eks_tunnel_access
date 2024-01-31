@@ -1,8 +1,9 @@
 1st version use - saml2aws and only handle tunneling part  
 2nd version can implement custom saml2aws equivalent  
 
-https://pkg.go.dev/github.com/versent/saml2aws/v2#section-readme
-This is based on python code from How to Implement a General Solution for Federated API/CLI Access Using SAML 2.0.
+https://pkg.go.dev/github.com/versent/saml2aws/v2#section-readme  
+This is based on python code from How to Implement a General Solution for Federated API/CLI Access Using SAML 2.0.  
+https://aws.amazon.com/blogs/security/how-to-implement-a-general-solution-for-federated-apicli-access-using-saml-2-0/
 
 This is what the tool does
 
